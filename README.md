@@ -1,4 +1,4 @@
-# Factorial Calculator By Typescript Made By Marwan Codex
+# Factorial Calculator By Typescript Made By Marwan Void.
 This is a Factorial Number Calculator By Typescript Language
 
 ## In This Program:
